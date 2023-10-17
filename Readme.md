@@ -42,6 +42,8 @@ This project contains the full source code of such a screen, and you can read mo
 * Ability to select a tile to load the appropriate character within gameplay
 * Hero details
 
+<br />
+
 ---
 
 > Jason Tu · [jasont.co](https://jasont.co/)
