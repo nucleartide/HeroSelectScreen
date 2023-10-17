@@ -32,7 +32,7 @@ This project contains the full source code of such a screen, and you can read mo
 
 <br />
 
-## Features
+## Planned features
 
 * Customizable skins
 * Data-driven character animations
