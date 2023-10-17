@@ -42,6 +42,8 @@ This project contains the full source code of such a screen, and you can read mo
 * Ability to select a tile to load the appropriate character within gameplay
 * Hero details
 * Lobby syncing and replication
+* UI sounds
+* Mouse-keyboard and controller support
 
 <br />
 
