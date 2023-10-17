@@ -41,6 +41,7 @@ This project contains the full source code of such a screen, and you can read mo
 * Data-driven character tiles
 * Ability to select a tile to load the appropriate character within gameplay
 * Hero details
+* Lobby syncing and replication
 
 <br />
 
