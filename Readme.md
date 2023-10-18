@@ -34,6 +34,8 @@ This project contains the full source code of such a screen, and you can read mo
 
 ## Planned features
 
+*In no particular order, as I'll be iterating heavily on the UI.*
+
 * Profiling, perf optimization
 * Customizable skins
 * Data-driven character animations
@@ -45,6 +47,8 @@ This project contains the full source code of such a screen, and you can read mo
 * Lobby syncing and replication
 * UI sounds
 * Mouse-keyboard and controller support
+* V2: Hero details
+* V2: Change skin
 
 <br />
 
