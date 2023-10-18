@@ -34,6 +34,7 @@ This project contains the full source code of such a screen, and you can read mo
 
 ## Planned features
 
+* Profiling, perf optimization
 * Customizable skins
 * Data-driven character animations
 * Ability to rotate the character
