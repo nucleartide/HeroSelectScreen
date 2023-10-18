@@ -49,6 +49,7 @@ This project contains the full source code of such a screen, and you can read mo
 * Mouse-keyboard and controller support
 * V2: Hero details
 * V2: Change skin
+* Throbber widget for medallion
 
 <br />
 
