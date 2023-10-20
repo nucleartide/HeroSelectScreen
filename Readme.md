@@ -4,9 +4,9 @@
 
 <br />
 
-## Playable build
+## Current progress
 
-TODO.
+https://github.com/nucleartide/HeroSelectScreen/assets/914228/eb236326-e03f-478c-b564-5b85a40ef0ae
 
 <br />
 
