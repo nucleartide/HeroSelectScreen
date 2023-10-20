@@ -78,3 +78,6 @@ DerivedDataCache/*
 
 # Mac junk.
 .DS_Store
+
+# Paragon models (too much data to version control).
+Content/Paragon*

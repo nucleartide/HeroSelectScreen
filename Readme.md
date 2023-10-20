@@ -30,6 +30,8 @@ I wanted to practice my UI engineering skills in Unreal, so I decided to create 
 
 This project contains the full source code of such a screen, and you can read more about the technical details below.
 
+* practice making something pixel perfect
+
 <br />
 
 ## Planned features
